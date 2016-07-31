@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"C Improved",
+		"CSS Format",
+		"CSS3",
+		"Emmet",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"LiveReload",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Freesia",
+		"Theme - Nil",
+		"Theme - Spacegray"
+	]
+}
